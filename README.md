@@ -1,8 +1,9 @@
 # 琴酒旅游网站
 
 >javaweb项目: 网页旅游网站
->
-> project by [panther125](https://github/panther125)
+> 
+> project by itheima
+> authot by [panther125](https://github/panther125)
 
 ## 项目定位
 
